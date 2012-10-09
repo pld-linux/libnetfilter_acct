@@ -1,12 +1,12 @@
 Summary:	netfilter extended accounting infrastructure library
 Summary(pl.UTF-8):	Biblioteka rozszerzonej infrastruktury do rozliczania dla netfiltra
 Name:		libnetfilter_acct
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	http://www.netfilter.org/projects/libnetfilter_acct/files/%{name}-%{version}.tar.bz2
-# Source0-md5:	246e97feb9cf98f7ddf70d71a3813336
+# Source0-md5:	4755429cbd46ad0ed32bb30f84da0dee
 URL:		http://www.netfilter.org/projects/libnetfilter_acct/
 BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake >= 1.6
